@@ -1,0 +1,102 @@
+.navbar-custom {
+  background-color: #003A6C;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link.active {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
+
+.nav-item {
+  border-color: white;
+}
+
+.h1-header {
+  color: #003A6C;
+  text-align: center;
+}
+
+.display-4 {
+  color:#003A6C;
+  font-weight: 500;
+}
+
+.hero {
+  background-color: #F5FCFF;
+}
+
+.hero-banner {
+  background-size: cover;
+  padding: 64px 0;
+  text-align: center;
+  background-color: #F5FCFF;
+  color:#003A6C;
+}
+
+.card-banner {
+  background-color:#F5FCFF;
+  padding: 100px 0;
+}
+
+.card-section {
+  background-color:#F5FCFF;
+  padding: 100px 0;
+}
+
+#card-contact {
+  background-color: white;
+  padding:32px 32px 32px 32px;
+  width: 80%;
+}
+
+
+.contact-section {
+  background-color: #F5FCFF;
+  padding:16px;
+}
+
+.guides-section {
+  background-color: #F5FCFF;
+  padding: 32px;
+}
+
+.btn {
+    color: white;
+    border-color: #003A6C;
+    background-color: #003A6C;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus {
+    color: #003A6C;
+    border-color: #003A6C;
+}
+
+
+.btn-outline-success {
+    color: #003A6C;
+    border-color: #003A6C;
+}
+
+.btn-outline-success:hover,
+.btn-outline-success:active,
+.btn-outline-success:focus {
+    background-color: #003A6C;
+    color: white;
+}
+
+.col-md-6 {
+  padding: 0 15px;
+}
